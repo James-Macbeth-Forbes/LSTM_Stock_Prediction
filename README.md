@@ -12,7 +12,8 @@ Note: This model is for educational purposes only and should not be used for fin
 6. Visualizes past and predicted prices
 # Dependencies
 Ensure you have Python installed, then install the required libraries using:
-pip install yfinance pandas numpy matplotlib scikit-learn tensorflow
+
+<b> pip install yfinance pandas numpy matplotlib scikit-learn tensorflow </b>
 
 # How to Use
 1. Clone this repository or copy the script.
